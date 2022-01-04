@@ -2,5 +2,6 @@
 
 # HackerRank Regex Solutions
 
-My solutions of the Regular Expression challenges on HackerRank. A friendly start to practice on basic text processing (
-regex). Link to the domain: [here](https://www.hackerrank.com/domains/regex).
+My solutions of the Regular Expression challenges on HackerRank. 
+A friendly start to practice on basic text processing (regex).
+Link to the domain: [here](https://www.hackerrank.com/domains/regex).
