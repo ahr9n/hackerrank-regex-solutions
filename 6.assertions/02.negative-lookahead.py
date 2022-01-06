@@ -1,4 +1,5 @@
 Regex_Pattern = r"(\w|\W)(?!\1)"  # Do not delete 'r'.
+# r"(.)(?!\1)" is working too :)
 
 import re
 

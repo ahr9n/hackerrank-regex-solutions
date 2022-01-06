@@ -1,5 +1,5 @@
 Regex_Pattern = r"(?<![aeiouAEIOU])[\w|\W]"  # Do not delete 'r'.
-# r"(?<![aeiouAEIOU])(\w|\W)" is working too ;)
+# r"(?<![aeiouAEIOU])(\w|\W)" and r"(?<![aeiouAEIOU])." are working too ;)
 
 import re
 
